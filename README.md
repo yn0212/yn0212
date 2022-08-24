@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFCC00&height=300&section=footer&text=Welcome&fontSize=70&desc=yn0212%20GitHub%20Profile&fontColor=FFFFFF)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=Fae878&height=300&section=footer&text=Welcome&fontSize=70&desc=yn0212%20GitHub%20Profile&fontColor=FFFFFF)
 
 
 
