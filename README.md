@@ -10,3 +10,6 @@
 
 
 [![github stats](https://github-readme-stats-ruby-one.vercel.app/api?username={yn0212})]
+
+[![github stats](https://github-readme-stats-ruby-one.vercel.app/api?username={yn0212})](https://github-readme-stats-ruby-one.vercel.app)
+
