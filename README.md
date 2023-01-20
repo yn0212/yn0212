@@ -9,4 +9,4 @@
 ![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=yn0212&show_icons=true&theme=flag-india)
 
 
-[![github stats](https://github-readme-stats-ruby-one.vercel.app/api?username={yn0212})](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats-ruby-one.vercel.app/api?username={yn0212})]
