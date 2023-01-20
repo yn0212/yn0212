@@ -6,7 +6,7 @@
 
 ### - Framework <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yn0212&show_icons=true&theme=flag-india)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yn0212&show_icons=true&theme=flag-india)
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/yn0212}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![github stats](https://github-readme-stats.vercel.app/api?username={yn0212})](https://github.com/anuraghazra/github-readme-stats)
